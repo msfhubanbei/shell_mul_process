@@ -1,4 +1,4 @@
-Goal</br>
+
 Introduct several ways that the script "run.sh" calls another script "test.sh".</br>
 Different way will produce different processes in Container.</br>
 Focus on line 3 in script "run.sh".</br>
